@@ -1,11 +1,11 @@
 # part 1 of Wes Bos Javascript course
-# Drum wav files from http://99sounds.org/drum-samples/
+Drum wav files from http://99sounds.org/drum-samples/
 
-HTML
+# HTML
 audio tag, kbd tag, data-* property
 
-CSS
+# CSS
 flex-box, transitions, transforms
 
-Javascript
+# Javascript
 'keydown' and 'transitionend' events, adding/removing classes
